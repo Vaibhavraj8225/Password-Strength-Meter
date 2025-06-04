@@ -1,10 +1,10 @@
 🔐Create a Strong Password and Evaluate Its Strength
+
 ✅ Objective
 To understand the components of a strong password and evaluate its strength using online tools.
 ________________________________________
 🛠️ Tools Used
 •	passwordmeter.com
-•	Other online password checkers (optional)
 ________________________________________
 📌 Step-by-Step Execution
 1. Created Sample Passwords with Varying Complexity
